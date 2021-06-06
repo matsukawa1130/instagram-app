@@ -1,0 +1,3 @@
+2021-06-07 00:49:06.795 JST [4531] FATAL:  pre-existing shared memory block (key 4516688, ID 524288) is still in use
+2021-06-07 00:49:06.795 JST [4531] HINT:  Terminate any old server processes associated with data directory "/usr/local/var/postgres".
+2021-06-07 00:49:06.795 JST [4531] LOG:  database system is shut down
