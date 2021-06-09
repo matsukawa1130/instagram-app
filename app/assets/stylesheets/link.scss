@@ -1,0 +1,72 @@
+.link {
+
+    &_login {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Kalam', cursive;
+    color:  black;
+
+    margin-left: 60px;
+    }
+
+    &_signup {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Kalam', cursive;
+    color:  black;
+
+    margin-left: 50px;
+    }
+
+    &_sn_signup {
+
+    position: absolute;
+    height: 17px;
+    left: 4.27%;
+    right: 87.47%;
+    top: calc(77% - 17px/2 - 64.5px);
+
+    width: 100px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 16px;
+    /* identical to box height */
+    color: #979797;
+    
+    mix-blend-mode: normal;
+    opacity: 0.9;
+
+    }
+
+    &_sn_forgot {
+
+    position: absolute;
+    height: 17px;
+    left: 4.27%;
+    right: 87.47%;
+    top: calc(80% - 17px/2 - 64.5px);
+
+    width: 150px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 16px;
+    /* identical to box height */
+    color: #979797;
+    
+    mix-blend-mode: normal;
+    opacity: 0.9;
+
+    }
+
+
+}
+
+a {
+   text-decoration: none;
+}

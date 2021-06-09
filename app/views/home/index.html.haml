@@ -1,1 +1,4 @@
-%h1 HOME
+.container
+  %h1.App_title Instagram
+  = link_to 'LOGIN', new_user_session_path, class:'link_login'
+  = link_to 'SIGNUP', new_user_registration_path, class:'link_signup'

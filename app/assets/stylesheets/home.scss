@@ -1,0 +1,17 @@
+.App {
+
+    &_title {
+      color: #FF8C00;
+      background: -webkit-linear-gradient(0deg, #e0a040, #00ff9d, #FF0080);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+
+      font-size: 110px;
+      font-family: 'Amatic SC', cursive;
+     
+      text-align: center;
+
+      margin-top: 30vh;
+    }
+
+}

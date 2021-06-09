@@ -1,0 +1,330 @@
+.label {
+
+  &_email {
+  position: absolute;
+  height: 17px;
+  left: 4.27%;
+  right: 87.47%;
+  top: calc(65% - 17px/2 - 64.5px);
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 16px;
+  /* identical to box height */
+  color: #979797;
+
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  }
+
+  &_account {
+  position: absolute;
+  height: 17px;
+  left: 4.53%;
+  right: 82.93%;
+  top: calc(54% - 17px/2 - 66.5px);
+    
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 16px;
+  /* identical to box height */
+
+  color: #979797;
+    
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  }
+
+  &_password {
+  position: absolute;
+  height: 17px;
+  left: 4.53%;
+  right: 81.07%;
+  top: calc(57% - 17px/2 + 83.5px);
+    
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;  
+  line-height: 16px;
+  /* identical to box height */
+  color: #979797;
+    
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  }
+
+  &_sn_rem {
+
+  position: absolute;
+  height: 17px;
+  left: 8%;
+  right: 85.47%;
+  top: calc(83.5% - 17px/2 - 64.5px);
+
+  width: 150px;
+    
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 16px;
+  /* identical to box height */
+  color: #979797;
+    
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  }
+}
+
+
+
+.box {
+
+  &_email {
+  /* Social Media App */
+  position: absolute;
+  height: 24px;
+  left: 4.53%;
+  right: 66.67%;
+  top: calc(65% - 24px/2 - 42px);
+
+  width: 300px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+  color: #333333;
+
+  mix-blend-mode: normal;
+  opacity: 0.9;
+
+  border: none;
+  }
+
+  &_password {
+    position: absolute;
+    height: 24px;
+    left: 4.53%;
+    right: 39.47%;
+    top: calc(64% - 24px/2 + 60px);
+
+    width: 300px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #333333;
+    
+    mix-blend-mode: normal;
+    opacity: 0.9;
+
+    border: none;
+  }
+
+  &_account {
+  position: absolute;
+  height: 24px;
+  left: 4.53%;
+  right: 66.67%;
+  top: calc(54% - 24px/2 - 42px);
+
+  width: 300px;
+    
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+
+  color: #333333;
+    
+  mix-blend-mode: normal;
+  opacity: 0.9;
+
+  border: none;
+  }
+}
+
+.hr {
+
+  &1 {
+position: absolute;
+width: 90%;
+height: 0px;
+left: 17px;
+top: 370px;
+
+border: 1px solid #9E9E9E;
+}
+
+  &2 {
+  position: absolute;
+  width: 90%;
+  height: 0px;
+  left: 17px;
+  top: 455px;
+    
+  border: 1px solid #9E9E9E;
+  }
+
+  &3 {
+  position: absolute;
+  width: 90%;
+  height: 0px;
+  left: 17px;
+  top: 550px;
+    
+  border: 1px solid #9E9E9E;
+  }
+
+  &_sn_1 {
+  position: absolute;
+  width: 90%;
+  height: 0px;
+  left: 17px;
+  top: 380px;
+      
+  border: 1px solid #9E9E9E;
+  }
+
+  &_sn_2 {
+    position: absolute;
+    width: 90%;
+    height: 0px;
+    left: 17px;
+    top: 460px;
+        
+    border: 1px solid #9E9E9E;
+  }
+
+
+}
+
+.label {
+
+  &_sn_email {
+  position: absolute;
+  height: 17px;
+  left: 4.27%;
+  right: 87.47%;
+  top: calc(55% - 17px/2 - 64.5px);
+    
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 16px;
+  /* identical to box height */
+
+  color: #979797;
+    
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  }
+  
+  &_sn_password {
+  position: absolute;
+  height: 17px;
+  left: 4.27%;
+  right: 81.33%;
+  top: calc(56% - 17px/2 + 10.5px);
+    
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 16px;
+  /* identical to box height */
+  color: #979797;
+    
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  }
+}
+
+.box {
+
+  &_sn_email {
+  position: absolute;
+  height: 24px;
+  left: 4.27%;
+  right: 39.73%;
+  top: calc(55% - 24px/2 - 40px);
+
+  width: 300px;
+    
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+  color: #333333;
+    
+  mix-blend-mode: normal;
+  opacity: 0.9;
+
+  border: none;
+  }
+
+  &_sn_password {
+  position: absolute;
+  height: 24px;
+  left: 4.27%;
+  right: 72.8%;
+  top: calc(56% - 24px/2 + 35px);
+
+  width: 300px;
+    
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+    
+  display: flex;
+  align-items: center;
+    
+  color: #333333;
+    
+  mix-blend-mode: normal;
+  opacity: 0.9;
+
+  border: none;
+  }
+}
+
+.cb {
+
+  &_rem {
+  position: absolute;
+  height: 17px;
+  left: 3%;
+  top: calc(83% - 17px/2 - 64.5px);
+
+    
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 16px;
+  /* identical to box height */
+  color: #979797;
+    
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  }
+}
